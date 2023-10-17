@@ -1,0 +1,260 @@
+body {
+  font-family: "Barlow Condensed", sans-serif;
+  margin: 0;
+  background-image: url(https://johnwick.movie/assets/img/film/john-wick-4/bg.jpg);
+  background-repeat: space;
+  padding-top: 50px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+section {
+  height: 100vh;
+  padding-top: 30px;
+  margin-left: 20px;
+}
+
+.main-nav {
+  /* border: 2px solid red; */
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.main-nav a {
+  font-size: 30px;
+  text-decoration: none;
+  color: white;
+  margin-left: 20px;
+}
+
+h1 {
+  color: white;
+  margin-top: 30px;
+  right: 0;
+  left: 0;
+  margin-left: 20px;
+}
+
+/* HOME */
+
+h2 {
+  color: white;
+  margin-top: 20px;
+}
+
+.filmreihe {
+  margin-top: 10px;
+}
+
+.info1 {
+  background-color: rgba(0, 0, 0, 0.7);
+  color: white;
+  margin: 0;
+  padding: 10px;
+  width: 300px;
+  border-radius: 8px;
+  display: flex;
+  justify-content: flex-start;
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+.entertainment-weekly {
+  margin-top: 10px;
+}
+
+.info2 {
+  background-color: rgba(0, 0, 0, 0.7);
+  color: white;
+  margin: 0;
+  padding: 10px;
+  width: 300px;
+  border-radius: 8px;
+  display: flex;
+  justify-content: flex-start;
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+/* CHAPTER-1 */
+
+.poster-t1 {
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+.teil1 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.info-teil1 {
+  background-color: rgba(0, 0, 0, 0.7);
+  color: white;
+  margin: 0;
+  padding: 10px;
+  width: 300px;
+  border-radius: 8px;
+  display: flex;
+  justify-content: flex-start;
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+.trailer1 {
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+.director1 {
+  display: inline-block;
+  align-items: center;
+  justify-content: baseline;
+  background-color: rgba(0, 0, 0, 0.7);
+  color: white;
+  margin: 50px;
+  padding: 10px;
+  width: 280px;
+  border-radius: 8px;
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+/* CHAPTER-2 */
+
+.poster-t2 {
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+.teil2 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.info-teil2 {
+  background-color: rgba(0, 0, 0, 0.7);
+  color: white;
+  margin: 0;
+  padding: 10px;
+  width: 300px;
+  border-radius: 8px;
+  display: flex;
+  justify-content: flex-start;
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+.trailer2 {
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+.director2 {
+  display: inline-block;
+  align-items: center;
+  justify-content: baseline;
+  background-color: rgba(0, 0, 0, 0.7);
+  color: white;
+  margin: 50px;
+  padding: 10px;
+  width: 300px;
+  border-radius: 8px;
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+/* CHAPTER-3 */
+
+.poster-t3 {
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+.teil3 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.info-teil3 {
+  background-color: rgba(0, 0, 0, 0.7);
+  color: white;
+  margin: 0;
+  padding: 10px;
+  width: 300px;
+  border-radius: 8px;
+  display: flex;
+  justify-content: flex-start;
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+.trailer3 {
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+.director3 {
+  display: inline-block;
+  align-items: center;
+  justify-content: baseline;
+  background-color: rgba(0, 0, 0, 0.7);
+  color: white;
+  margin: 50px;
+  padding: 10px;
+  width: 300px;
+  border-radius: 8px;
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+/* CHAPTER-4 */
+
+.poster-t4 {
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+.teil4 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.info-teil4 {
+  background-color: rgba(0, 0, 0, 0.7);
+  color: white;
+  margin: 0;
+  padding: 10px;
+  width: 300px;
+  border-radius: 8px;
+  display: flex;
+  justify-content: flex-start;
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+.trailer4 {
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+.director4 {
+  display: inline-block;
+  align-items: center;
+  justify-content: baseline;
+  background-color: rgba(0, 0, 0, 0.7);
+  color: white;
+  margin: 50px;
+  padding: 10px;
+  width: 350px;
+  border-radius: 8px;
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+/* LIONSGATE */
+
+.lionsgate {
+  display: inline-block;
+  align-items: center;
+  justify-content: baseline;
+  background-color: rgba(0, 0, 0, 0.7);
+  color: white;
+  margin: 70px;
+  padding: 10px;
+  width: 800px;
+  border-radius: 8px;
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
